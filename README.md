@@ -39,3 +39,6 @@ The following tasks couldn't be finished, but I am sure it would have been done,
 5.    Fine-Tuning the models were also tried by un-freezing the layers, but since the training took more time so it wasn't completed. However, functionality is added.
 6.    Training could have been faster using autoencoded/compressed images, will probably try that later.
 
+
+Tech Stack Used- 
+<img src="https://worldvectorlogo.com/download/python-5.svg" alt="Python Logo" width="50" height="50"/> 
