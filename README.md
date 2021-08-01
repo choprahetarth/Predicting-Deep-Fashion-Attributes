@@ -42,5 +42,8 @@ The following tasks couldn't be finished, but I am sure it would have been done,
 
 Tech Stack Used-   
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyTorch_logo_white.svg" alt="PyTorch Logo" width="50" height="50"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyTorch_logo_white.svg" alt="PyTorch Logo" width="100" height="100"/>   
+<img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="PyTorch Logo" width="100" height="100"/>   
+
+
