@@ -44,6 +44,10 @@ Tech Stack Used-
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyTorch_logo_white.svg" alt="PyTorch Logo" width="100" height="100"/>
-<img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" alt="PyTorch Logo" width="100" height="100"/>   
+<img src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas_white.svg" alt="Pandas Logo" width="100" height="100"/>   
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="Scikit-Learn Logo" width="100" height="100"/> 
+<img src="http://cms.ipressroom.com.s3.amazonaws.com/219/files/20149/NVIDIA_CUDA_V_2C_r.jpg" alt="CUDA Logo" width="100" height="100"/> 
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="MatPlotLib" width="100" height="100"/> 
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy-simple.svg" alt="Numpy" width="100" height="100"/> 
 
 
