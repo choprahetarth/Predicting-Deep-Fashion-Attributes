@@ -37,6 +37,5 @@ The following tasks couldn't be finished, but I am sure it would have been done,
 3.   Experiment logging was not done, adding them could have helped analyze more hyperparamters and infer from more stats such as confusion matrix.
 4.   "N/A" was treated here as "-1", basically treating it as a separate class. Imputing them with mean or dropping the columns would have added additional bias. Also while predicting the same on the test data, a function could have been added which would make sure that if a predicted "1" is not found in the predicted list, it would infer it as "N/A".
 5.    Fine-Tuning the models were also tried by un-freezing the layers, but since the training took more time so it wasn't completed. However, functionality is added.
-6.    I wanted to implement a different type of architecture, which can be seen in the JPEG file below. However, I was not able to implement it. It bascially would have been 3 Models within a single one. (Just like Flixstock treats individual tasks using individual models, fully connected in a single NN).
-7.     Training could have been faster using autoencoded/compressed images, will probably try that later.
+6.    Training could have been faster using autoencoded/compressed images, will probably try that later.
 
