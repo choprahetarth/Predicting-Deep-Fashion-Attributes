@@ -41,4 +41,4 @@ The following tasks couldn't be finished, but I am sure it would have been done,
 
 
 Tech Stack Used- 
-<img src="https://worldvectorlogo.com/download/python-5.svg" alt="Python Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
