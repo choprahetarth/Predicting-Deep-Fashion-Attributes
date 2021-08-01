@@ -40,5 +40,7 @@ The following tasks couldn't be finished, but I am sure it would have been done,
 6.    Training could have been faster using autoencoded/compressed images, will probably try that later.
 
 
-Tech Stack Used- 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
+Tech Stack Used-   
+
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="PyTorch Logo" width="50" height="50"/>  
