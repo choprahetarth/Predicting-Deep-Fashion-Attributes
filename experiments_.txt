@@ -1,0 +1,61 @@
+
+**Experiment 1 - (Best So Far)**
+* Model - resnext50_32x4d
+* Input Image Size - 512 x 512
+* Training Epochs - 25
+* Normalization Parameters - [0.485, 0.456, 0.406]
+* Optimizer Type - Adam (lr = 0.001)
+
+Results - 
+* Best Training Accuracy = 0.9106
+* Best Validation Acuracy = 0.8818
+* Best Validation F1 Score = 0.5984
+* Maximum Time Taken to train
+
+<===================================================>
+
+Experiment 2 -
+* Model - resnext50_32x4d
+* Input Image Size - 256 x 256
+* Training Epochs - 10
+* Normalization Parameters - [0.485, 0.456, 0.406]
+* Optimizer Type - Adam (lr = 0.001)
+
+Results - 
+* Best Training Accuracy = 0.9177
+* Best Validation Acuracy = 0.8447
+* Best Validation F1 Score = 0.6002
+
+<===================================================>
+
+
+Experiment 3 - 
+* Model - resnet18
+* Input Image Size - 256 x 256
+* Training Epochs - 10
+* Normalization Parameters - [0.485, 0.456, 0.406]
+* Optimizer Type - Adam (lr = 0.001)
+
+Results - 
+* Best Training Accuracy = 0.9119
+* Best Validation Acuracy = 0.8588
+* Best Validation F1 Score = 0.6069
+
+<===================================================>
+
+
+
+Experiment 4 - 
+* Model - resnet18
+* Input Image Size - 512 x 512
+* Training Epochs - 10
+* Normalization Parameters - [0.485, 0.456, 0.406]
+* Optimizer Type - SGD (lr = 0.001, momentum = 0.9)
+
+Results - 
+* Best Training Accuracy = 0.9045
+* Best Validation Acuracy = 0.9050
+* Best Validation F1 Score = 0.5849
+
+<===================================================>
+
